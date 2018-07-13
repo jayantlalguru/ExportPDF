@@ -1,0 +1,8 @@
+D:\Work\Projects\DotNet\PracticeProjects\ExportToPDFTest\ExportPDF\bin\Debug\ExportPDF.dll
+D:\Work\Projects\DotNet\PracticeProjects\ExportToPDFTest\ExportPDF\bin\Debug\ExportPDF.pdb
+D:\Work\Projects\DotNet\PracticeProjects\ExportToPDFTest\ExportPDF\bin\Debug\itextsharp.dll
+D:\Work\Projects\DotNet\PracticeProjects\ExportToPDFTest\ExportPDF\bin\Debug\itextsharp.xml
+D:\Work\Projects\DotNet\PracticeProjects\ExportToPDFTest\ExportPDF\obj\Debug\ExportPDF.csprojResolveAssemblyReference.cache
+D:\Work\Projects\DotNet\PracticeProjects\ExportToPDFTest\ExportPDF\obj\Debug\ExportPDF.csproj.CoreCompileInputs.cache
+D:\Work\Projects\DotNet\PracticeProjects\ExportToPDFTest\ExportPDF\obj\Debug\ExportPDF.dll
+D:\Work\Projects\DotNet\PracticeProjects\ExportToPDFTest\ExportPDF\obj\Debug\ExportPDF.pdb
